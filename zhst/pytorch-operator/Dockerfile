@@ -1,2 +1,0 @@
-FROM gcr.io/kubeflow-images-public/pytorch-operator:vmaster-gd596e904
-MAINTAINER flq<filiqiang@smartvision.cn>
