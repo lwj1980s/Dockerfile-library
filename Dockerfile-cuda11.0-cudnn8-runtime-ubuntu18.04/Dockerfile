@@ -1,4 +1,4 @@
-FROM cuda:11.0-cudnn8-runtime-ubuntu18.04
+FROM nvidia/cuda:11.0-cudnn8-runtime-ubuntu18.04
 
 ARG PYTHON_VERSION=3.8
 ARG WITH_TORCHVISION=1
